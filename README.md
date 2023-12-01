@@ -12,7 +12,7 @@ A graphic application that draws a B-Spline curve using OpenGL in the CodeBlocks
    *Another way*
    Open a new project in CodeBlocks 17.12 and select all the project files in this repository and hit run.
 
-#Features
+# Features
 1. Moving control points with the mouse
 2. Selecting control points with left click
 3. Color changes
