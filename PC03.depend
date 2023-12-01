@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1700886159 source:d:\alonso\unmsm\codeblocks\pc03\main.cpp
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<algorithm>
+
+935113144 d:\programas\codeblocks 17\codeblocks\glut\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+832837944 d:\programas\codeblocks 17\codeblocks\glut\glut\include\gl\gl.h
+
+832394118 d:\programas\codeblocks 17\codeblocks\glut\glut\include\gl\glu.h
+	<GL/gl.h>
+
